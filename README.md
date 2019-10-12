@@ -1,4 +1,4 @@
-# 22
+# Galeria napisana w vue
 
 ## Project setup
 ```
