@@ -1,0 +1,31 @@
+/**
+ * Globals
+ */
+
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+.icons {
+    a {
+        display: inline-block;
+        font-size: 2em;
+        /*  color: $light_color;*/
+        padding: 15px;
+    }
+}
+
+.list-group-item {
+    background: transparent!important
+}
+
+.overCaption {
+    background: $accent_color;
+    color: $light_color;
+    padding: 3px;
+}
