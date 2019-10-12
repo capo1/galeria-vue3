@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Galeria napisana przy użyciu VUE + zdjęć z portalu Unsplash
 
-DEMO: http://zuvpsndv.wirt08.biznes-host.pl
+DEMO: http://zuvpsndv.wirt08.biznes-host.pl/vue
 
 Zastosowane biblioteki:
 

@@ -97,7 +97,7 @@
       </div>
       <div class="badge black">
         <div class="circle">
-          <a href="https://github.com/capo1/Galeria-VUE"></a>
+          <a href="https://github.com/capo1/galeria-vue3"></a>
           <svg class="icon icon-github">
             <use xlink:href="#icon-github" />
           </svg>
